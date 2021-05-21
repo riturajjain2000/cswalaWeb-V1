@@ -19,7 +19,7 @@
             <a class="nav-link non-active" href="/explore">Explore</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link non-active" href="/team">Meet the Team</a>
+            <a class="nav-link non-active" href="/team">Meet the Brain</a>
           </li>
         </ul>
       </div>

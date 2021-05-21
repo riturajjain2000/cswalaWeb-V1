@@ -2,12 +2,11 @@
   <section
     class="team container py-5 my-3 d-flex flex-column align-items-center justify-content-center"
   >
-    <h2 class="my-4">Meet the Team! <span>⚡</span></h2>
+    <h2 class="my-4">Meet the Brain! <span>⚡</span></h2>
     <p class="quote">
-      "Coming together is a beginning. Keeping together is progress. Working
-      together is success."
+      “Education is the most powerful weapon which you can use to change the world”
       <br />
-      <b> - Henry Ford</b>
+      <b>   – Nelson Mandela</b>
     </p>
     <div class="d-flex gap-5">
       <div
@@ -40,35 +39,7 @@
           </div>
         </div>
       </div>
-      <div
-        class="row featurette py-4 my-5 d-flex flex-column align-items-center justify-content-center"
-      >
-        <div>
-          <img
-            class="featurette-image  mx-auto"
-            src="https://github.com/5tupidbrain.png"
-            alt="Generic placeholder image"
-          />
-        </div>
-        <div class="d-flex flex-column justify-content-center">
-          <h4>Saransh Hardaha</h4>
-          <span class="text-muted">Web Dev Lead</span>
-          <p>
-            Web developer | UI /UX Designer | Learner
-          </p>
-          <div class="socials mx-auto py-3 pb-1 d-flex justify-content-between">
-            <a href="mailto:hellosaranshh@gmail.com"
-              ><img src="../assets/img/gmail.svg" alt=""
-            /></a>
-            <a href="https://www.github.com/5tupidbrain/"
-              ><img src="../assets/img/github.png" alt=""
-            /></a>
-            <a href="https://www.linkedin.com/in/5tupidbrain/"
-              ><img src="../assets/img/linkedin.svg" alt=""
-            /></a>
-          </div>
-        </div>
-      </div>
+
     </div>
   </section>
 </template>
